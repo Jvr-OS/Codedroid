@@ -1,5 +1,5 @@
-# Contributing to CodeAssist
-We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
+# Contributing to CodeDroid
+We value your contributions! Our goal is to make contributing to this project simple and transparent. Whether you're:
 
 - Reporting a bug
 - Discussing the current state of the code
@@ -7,42 +7,44 @@ We love your input! We want to make contributing to this project as easy and tra
 - Proposing new features
 - Becoming a maintainer
 
-## We Develop with Github
-We use github to host code, to track issues and feature requests, as well as accept pull requests.
+We welcome your involvement!
 
-## We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
-Pull requests are the best way to propose changes to the codebase (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
+## We Develop with GitHub
+Codedroid uses GitHub to host the code, track issues and feature requests, and accept pull requests. It's a platform designed to foster collaboration, and we're excited to have you contribute!
 
-1. Fork the repo and create your branch from `master`.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Ensure the test suite passes.
-5. Make sure your code lints.
-6. Issue that pull request!
+## We Follow [GitHub Flow](https://guides.github.com/introduction/flow/index.html) for All Code Changes
+All code changes happen through pull requests. We follow the [GitHub Flow](https://guides.github.com/introduction/flow/index.html), which ensures that the codebase stays clean and stable. Here’s how to contribute:
 
-## Any contributions you make will be under the GPL-3.0 Software License
-In short, when you submit code changes, your submissions are understood to be under the same [GPL-3.0 License](https://choosealicense.com/licenses/gpl-3.0/) that covers the project. Feel free to contact the maintainers if that's a concern.
+1. **Fork the repository** and create a branch from `main`.
+2. **Write tests** for new features or changes, if applicable.
+3. **Update the documentation** if you've made changes to APIs or functionality.
+4. **Run tests** to make sure everything works.
+5. **Lint your code** to ensure it adheres to the project’s style guidelines.
+6. **Open a pull request** to propose your changes!
 
-## Report bugs using Github's
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](); it's that easy!
+## Licensing Your Contributions
+Any contributions you make will be under the GPL-3.0 Software License. This means your code changes are licensed under the same [GPL-3.0 License](https://choosealicense.com/licenses/gpl-3.0/) that governs the Codedroid project. If you have concerns, feel free to reach out to the maintainers.
 
-## Write bug reports with detail, background, and sample code
-[This is an example](http://stackoverflow.com/q/12488905/180626) of a bug report I wrote, and I think it's not a bad model. Here's [another example from Craig Hockenberry](http://www.openradar.me/11905408), an app developer whom I greatly respect.
+## Reporting Bugs
+To report bugs, please open a new issue on GitHub. It's easy, and helps us keep track of any problems.
 
-**Great Bug Reports** tend to have:
+## Writing Great Bug Reports
+A well-written bug report is invaluable! Here's a guide on how to structure it:
 
-- A quick summary and/or background
-- Steps to reproduce
-  - Be specific!
-  - Give sample code if you can. [My stackoverflow question](http://stackoverflow.com/q/12488905/180626) includes sample code that *anyone* with a base R setup can run to reproduce what I was seeing
-- What you expected would happen
-- What actually happens
-- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
+- **A clear summary** of the issue
+- **Steps to reproduce** (Be specific!)
+  - Include sample code if possible.
+  - Describe the environment where the bug occurs (e.g., device, OS version, app version)
+- **Expected behavior** – What you think should happen
+- **Actual behavior** – What actually happens
+- **Additional notes** – Any insights or failed attempts to fix it
 
-People *love* thorough bug reports. I'm not even kidding.
+People love thorough bug reports!
 
 ## License
-By contributing, you agree that your contributions will be licensed under its GPL-3.0 License.
+By contributing, you agree that your contributions will be licensed under the GPL-3.0 License, which governs the Codedroid project.
 
 ## References
-This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md)
+This guide is based on the open-source contribution guidelines from [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md).
+
+Thank you for helping make Codedroid better!
