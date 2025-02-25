@@ -1,95 +1,57 @@
-<p align='center'>
-<img width='300px%' height='300px' src='https://raw.githubusercontent.com/KrishnaVyshak/CodeAssist/main/logo-dark.png#gh-dark-mode-only' >
-<img width='300px' height='300px' src='https://raw.githubusercontent.com/KrishnaVyshak/CodeAssist/main/logo-light.png#gh-light-mode-only'>
+<p align="center">
+  <img width="300px%" height="300px" src="https://raw.githubusercontent.com/KrishnaVyshak/CodeAssist/main/logo-dark.png#gh-dark-mode-only" >
+  <img width="300px" height="300px" src="https://raw.githubusercontent.com/KrishnaVyshak/CodeAssist/main/logo-light.png#gh-light-mode-only">
 </p>
 
-<div align='center'>
-  <a href='https://play.google.com/store/apps/details?id=com.tyron.code&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-    <img width='170px%' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
-  </a>
+<div align="center">
+  <h2>CodeDroid</h2>
+  <p>This is a revived version of the original CodeAssist project, which has not been updated for 3 years. Now maintained and updated under the new name CodeDroid by JVR Software.</p>
 </div>
 
-<div align='center'>
-  
-[![stability-alpha](https://img.shields.io/badge/stability-alpha-f4d03f.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#alpha)
-[![Chat](https://img.shields.io/badge/chat-on%20discord-7289da)](https://discord.gg/pffnyE6prs)
+## Credits
 
-  <h2>A javac APIs-based code editor that supports building Android apps.</h2>
+This project is a continuation of CodeAssist, originally developed by [KrishnaVyshak](https://github.com/KrishnaVyshak). 
 
-</div>
+Special thanks to:
+- KrishnaVyshak for the original CodeAssist project
+- Rosemoe/CodeEditor
+- JavaNIDE
+- Mike Anderson
+- Java Language Server
+- Ilyasse Salama
 
-<img style="width: 45%; height: 100%; padding-right: 10px" src="https://raw.githubusercontent.com/KrishnaVyshak/CodeAssist/main/.github/resources/screenshot/screenshots_title_light.png#gh-light-mode-only">
-<img style="width: 45%; height: 100%; padding-right: 10px" src="https://raw.githubusercontent.com/KrishnaVyshak/CodeAssist/main/.github/resources/screenshot/screenshots_title_dark.png#gh-dark-mode-only">
-
-<img style="width: 25%; height: 80%; padding-right: 10px" src=".github/resources/screenshot/screenshot1.webp?raw=true"><img style="width: 25%; height: 80%" src=".github/resources/screenshot/screenshot2.webp?raw=true"><img style="width: 25%; height: 80%" src=".github/resources/screenshot/screenshot3.webp?raw=true"><img style="width: 25%; height: 80%" src=".github/resources/screenshot/screenshot4.webp?raw=true">
-
-<img style="width: 45%; height: 100%; padding-right: 10px" src=".github/resources/images/features_title_dark.png?raw=true#gh-light-mode-only">
-<img style="width: 45%; height: 100%; padding-right: 10px" src=".github/resources/images/features_title_light.png?raw=true#gh-dark-mode-only">
+## Features
 
 - [x] APK Compilation
-
 - [x] AAB Support
-
 - [x] Java
-
 - [x] Kotlin  
-
 - [x] R8/ProGuard
-
-- [x] Code Completions (Currently for Java only)  
-
-- [x] Quick fixes (Import missing class and Implement Abstract Methods)  
-
+- [x] Code Completions (Currently for Java only)
+- [x] Quick fixes (Import missing class and Implement Abstract Methods)
 - [x] Layout Preview (80%)
-
 - [x] Automatic dependency resolution  
-
 - [ ] Layout Editor
-
 - [ ] Debugger
+- [ ] Lint
 
-- [ ] Lint 
+## Community
 
-<img style=" width: 100%;" src=".github/resources/images/hr.jpg">
-
-## CodeAssist Community
-
-Discord server: https://discord.gg/pffnyE6prs
-
-
-
-English-language chat in Telegram: https://t.me/codeassist_app
-
-
-
-Russian-language (русскоязычный) chat in Telegram: https://t.me/codeassist_chat
-
-
+*Coming soon*
 
 ## Building - Android Studio
 
-Clone this repository to your local device and then open it on Android Studio.
-
-
+Clone this repository to your local device and then open it in Android Studio.
 
 ## Contributing
 
-- Pull request must have a short description as a title and a more detailed one in the description
+- Pull requests must have a short description as a title and a more detailed one in the description.
+- Feature additions must include Unit/Instrumentation tests. This ensures the future stability of the app and its modules.
 
-- Feature additions must include Unit/Instrumentation tests. This is for future stability of the app and modules.
+## License
 
+This project is licensed under the [MIT License](LICENSE), with all rights to the original CodeAssist project reserved by [KrishnaVyshak](https://github.com/KrishnaVyshak).
 
+---
 
-# Special thanks
-
-- Rosemoe/CodeEditor 
-
-- JavaNIDE
-
-- Mike Anderson
-
-- Java Language Server
-
-- Ilyasse Salama
-
-<img style="border-radius: 30px; width: 100%; height: 100%" src="https://krishnavyshak.github.io/info_codeassist_1.png">
+> **Note:** This project is a revived version of CodeAssist, now under the name **CodeDroid**, and all credits for the original code belong to KrishnaVyshak and the other contributors. The new updates and maintenance are handled by JVR Software.
