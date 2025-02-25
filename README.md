@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="300px%" height="300px" src="https://raw.githubusercontent.com/KrishnaVyshak/CodeAssist/main/logo-dark.png#gh-dark-mode-only" >
-  <img width="300px" height="300px" src="https://raw.githubusercontent.com/KrishnaVyshak/CodeAssist/main/logo-light.png#gh-light-mode-only">
+  <img width="250px" height="250px" src="https://raw.githubusercontent.com/Jvr-OS/Codedroid/refs/heads/main/logo-dark.png">
 </p>
 
 <div align="center">
