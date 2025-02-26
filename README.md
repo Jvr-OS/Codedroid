@@ -51,6 +51,8 @@ Clone this repository to your local device and then open it in Android Studio.
 
 This project is licensed under the [MIT License](LICENSE), with all rights to the original CodeAssist project reserved by [KrishnaVyshak](https://github.com/KrishnaVyshak).
 
----
+<p align="center">
+  <img width="1250px" height="4px" src="https://raw.githubusercontent.com/Jvr-OS/Codedroid/refs/heads/main/.github/banner.jpg">
+</p>
 
 > **Note:** This project is a revived version of CodeAssist, now under the name **CodeDroid**, and all credits for the original code belong to KrishnaVyshak and the other contributors. The new updates and maintenance are handled by JVR Software.
