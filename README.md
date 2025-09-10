@@ -1,58 +1,86 @@
 <p align="center">
-  <img width="250px" height="250px" src="https://raw.githubusercontent.com/Jvr-OS/Codedroid/refs/heads/main/logo-dark.png">
+  <img src="https://raw.githubusercontent.com/Jvr-OS/Codedroid/refs/heads/main/logo-dark.png" width="220" alt="CodeDroid Logo"/>
 </p>
 
-<div align="center">
-  <h2>CodeDroid</h2>
-  <p>This is a revived version of the original CodeAssist project, which has not been updated for 3 years. Now maintained and updated under the new name CodeDroid by JVR Software.</p>
-</div>
+<h1 align="center">CodeDroid</h1>
+<p align="center">
+  A modern continuation of the original <b>CodeAssist</b> project.<br/>
+  Maintained and updated by <b>JVR Software</b>.
+</p>
 
-## Credits
+---
 
-This project is a continuation of **CodeAssist**, originally developed by [tyron12233](https://github.com/tyron12233). 
+## About CodeDroid  
 
-Special thanks to:
-- **tyron12233** for the original CodeAssist project  
+CodeDroid is a revived version of **CodeAssist**, a project that has been inactive for more than three years.  
+This continuation introduces new features, improvements, and ongoing support under the new name **CodeDroid**.  
+
+---
+
+## Credits  
+
+This project is based on **CodeAssist**, originally developed by [tyron12233](https://github.com/tyron12233).  
+
+Acknowledgements:  
+- **tyron12233** – Creator of CodeAssist  
 - Rosemoe/CodeEditor  
 - JavaNIDE  
 - Mike Anderson  
 - Java Language Server  
 - Ilyasse Salama  
 
-## Features
+---
 
-- [x] APK Compilation  
-- [x] AAB Support  
-- [x] Java  
-- [x] Kotlin  
-- [x] R8/ProGuard  
-- [x] Code Completions (Currently for Java only)  
-- [x] Quick fixes (Import missing class and Implement Abstract Methods)  
-- [x] Layout Preview (80%)  
-- [x] Automatic dependency resolution  
-- [ ] Layout Editor  
-- [ ] Debugger  
-- [ ] Lint  
+## Features  
 
-## Community
+**Available:**  
+- APK Compilation  
+- AAB Support  
+- Java and Kotlin Support  
+- R8/ProGuard  
+- Code Completions (Java only)  
+- Quick Fixes (Import missing class, Implement abstract methods)  
+- Layout Preview (~80% complete)  
+- Automatic Dependency Resolution  
 
-*Coming soon*  
+**Planned:**  
+- Layout Editor  
+- Debugger  
+- Lint  
 
-## Building - Android Studio  
+---
 
-Clone this repository to your local device and then open it in Android Studio.  
+## Community  
+
+Community resources and discussions will be added soon.  
+
+---
+
+## Building with Android Studio  
+
+1. Clone this repository  
+2. Open the project in **Android Studio**  
+3. Build and run  
+
+---
 
 ## Contributing  
 
-- Pull requests must have a short description as a title and a more detailed one in the description.  
-- Feature additions must include Unit/Instrumentation tests. This ensures the future stability of the app and its modules.  
+Contributions are welcome. Please follow these guidelines:  
+- Pull requests must include a concise title and a detailed description.  
+- New features should include unit or instrumentation tests to ensure long-term stability.  
+
+---
 
 ## License  
 
-This project is licensed under the [MIT License](LICENSE), with all rights to the original CodeAssist project reserved by [tyron12233](https://github.com/tyron12233).  
+This project is licensed under the [MIT License](LICENSE).  
+Original rights for **CodeAssist** remain with [tyron12233](https://github.com/tyron12233).  
+
+---
 
 <p align="center">
-  <img width="1250px" height="4px" src="https://raw.githubusercontent.com/Jvr-OS/Codedroid/refs/heads/main/.github/banner.jpg">
+  <img src="https://raw.githubusercontent.com/Jvr-OS/Codedroid/refs/heads/main/.github/banner.jpg" width="100%" alt="Banner"/>
 </p>
 
-> **Note:** This project is a revived version of **CodeAssist**, now under the name **CodeDroid**, and all credits for the original code belong to **tyron12233** and the other contributors. The new updates and maintenance are handled by **JVR Software**.
+> Note: CodeDroid is a continuation of **CodeAssist**. All original credits go to **tyron12233** and contributors. Updates and maintenance are handled by **JVR Software**.
