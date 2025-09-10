@@ -1,28 +1,29 @@
-name: Android Tests CI
+name: Android CI - Unit Tests
 
 on:
   workflow_dispatch:
   push:
-    branches: [ javac-17 ]
+    branches: [ javac-21 ]
   pull_request:
-    branches: [ javac-17 ]
+    branches: [ javac-21 ]
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
-      - name: Set up JDK 17
-        uses: actions/setup-java@v4
+      - name: Set up JDK 21
+        uses: actions/setup-java@v5
         with:
-          java-version: '17'
-          distribution: 'adopt-openjdk'
+          java-version: '21'
+          distribution: temurin
           cache: gradle
 
-      - name: Grant execute permission for gradlew
+      - name: Grant execute permission for Gradle wrapper
         run: chmod +x gradlew
 
-      - name: Build with Gradle
+      - name: Run Unit Tests
         run: ./gradlew test
